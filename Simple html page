@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Gamer</title>
+  </head>
+    <style>
+     .b {
+      color: red;
+      text-align: center;
+      }
+      p {
+       color: cyan;
+       text-align: center;
+       }
+       h2 {
+        color: greenyellow;
+        text-align: center;
+     </style>   
+  <body>
+    <h1 class="b">Gamer189</h1>
+    <h2>Welcome to my page</h1>
+    <p>Everyone is welcome</p>
+    <h1 class="b">DONT FORGET TO LIKE AND SUBSCRIBE</h1>
+  </body>
+</html>  
